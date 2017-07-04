@@ -1,8 +1,10 @@
 ---
 ---
 
-
-@import "{{ site.theme }}";
-
 $section-headings-color: #000000;
 $body-text-color: #000000;
+$header-heading-color: #fff;
+$header-bg-color: #4898ce;
+$header-bg-color-secondary: #3384b7;
+
+@import "{{ site.theme }}";
