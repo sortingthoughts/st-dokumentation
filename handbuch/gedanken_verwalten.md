@@ -1,5 +1,5 @@
 ---
-title: ST - Gedanken verwalten
+title: "Gedanken verwalten"
 ---
 
 ## Gedanken verwalten

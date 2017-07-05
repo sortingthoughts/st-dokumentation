@@ -1,5 +1,5 @@
 ---
-title: ST - Schnelleinstieg
+title: "Schnelleinstieg"
 ---
 
 ## Schnelleinstieg

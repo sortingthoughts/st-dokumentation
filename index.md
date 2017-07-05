@@ -3,10 +3,16 @@
 ### Desktop Version für Windows und macOS
 * [Schnelleinstieg](schnelleinstieg.md)
 * [Installation](installation.md)
-* [Grundlagen](grundlagen.md)
-* [Gedanken verwalten](gedanken_verwalten.md)
-* [Projekt und Aufgabenmanagement](projekte_und_aufgaben.md)
+* [Versionsvergleich](versionsvergleich.md)
+* [Benutzerhandbuch](benutzerhandbuch.md)
+  * [Grundlagen](/handbuch/grundlagen.md)
+  * [Gedanken verwalten](/handbuch/gedanken_verwalten.md)
+  * [Projekt und Aufgabenmanagement](/handbuch/projekte_und_aufgaben.md)
+  * [Sync Service](/handbuch/sync_service.md)
+* [Fragen und Antworten](fragen_und_antworten.md)
 
+### Sync Service
+* ...
 
 ### iOS Version für iPhone und iPad
 * ...

@@ -1,5 +1,5 @@
 ---
-title: ST - Projekt- und Aufgabenmanagement
+title: "Projekt- und Aufgabenmanagement"
 ---
 
 ## Projekt- und Aufgabenmanagement

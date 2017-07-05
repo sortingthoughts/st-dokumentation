@@ -1,5 +1,5 @@
 ---
-title: FAQ - Fragen und Antworten
+title: "FAQ - Fragen und Antworten"
 ---
 
 ## Fragen und Antworten

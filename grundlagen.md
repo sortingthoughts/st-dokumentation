@@ -1,3 +1,0 @@
----
-title: ST - Grundlagen
----
