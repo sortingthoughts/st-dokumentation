@@ -1,7 +1,6 @@
-## Desktop und mobile Version
+## Desktop und iOS Version
 * [Schnelleinstieg](schnelleinstieg.md)
 * [Installation](installation.md)
-
 * [Benutzerhandbuch](benutzerhandbuch.md)
   * [Grundlagen](/handbuch/grundlagen.md)
   * [Gedanken verwalten](/handbuch/gedanken_verwalten.md)
