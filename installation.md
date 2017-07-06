@@ -1,11 +1,15 @@
 ---
 title: "Installation"
 ---
+---------------
+* TOC
+{:toc}
+---------------
 
 ## Installation Desktop Version
 
-# Windows
+### Windows
 
-# macOS
+### macOS
 
 ## Installation iOS Version
