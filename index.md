@@ -1,7 +1,13 @@
+## Über Sorting Thoughts
+
+* [Die Geschichte von Sorting Thoughts](ueber_sortingthoughts.md)
+* [Für wen ist Sorting Thoughts gemacht?](anwendungen_sortingthoughts.md)
+
 ## Desktop und iOS Version
 * [Schnelleinstieg](schnelleinstieg.md)
 * [Installation](installation.md)
 * [Benutzerhandbuch](benutzerhandbuch.md)
+  * [Gedanken-Bibliothek](/handbuch/gedanken_bibliothek.md)
   * [Grundlagen](/handbuch/grundlagen.md)
   * [Gedanken verwalten](/handbuch/gedanken_verwalten.md)
   * [Projekt und Aufgabenmanagement](/handbuch/projekte_und_aufgaben.md)
@@ -17,4 +23,4 @@
 * [Download](https://www.sortingthoughts.de/blog/de/download/)
 
 ## Support und Kontakt
-Probleme, Fragen und Anregungen zu Sorting Thoughts können sie über dieses [Kontakt Formular](https://www.sortingthoughts.de/blog/de/report-a-bug/) gemeldet werden.
+Probleme, Fragen und Anregungen zu Sorting Thoughts können gerne über dieses [Kontakt Formular](https://www.sortingthoughts.de/blog/de/report-a-bug/) gemeldet werden.

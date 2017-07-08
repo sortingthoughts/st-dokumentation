@@ -13,18 +13,32 @@ __Inhalt__
 
 Sorting Thoughts für Windows oder macOS [herunterladen](https://www.sortingthoughts.de/blog/de/download/) und [Installation](installation.md) durchführen.
 
-**Schritt 2: Gedanken Bibliothek anlegen**
+**Schritt 2: Gedanken Bibliothek und Sammlung anlegen**
 
-Alle Gedanken, die man mit Sorting Thoughts erfassen kann, werden in einer Gedanken-Sammlung abgelegt. Eine Gedanken-Sammlung wird wiederum in einer Gedanken-Bibliothek abgelegt. Technisch gesehen ist eine Gedanken-Bibliothek eine verschlüsselte Datenbank auf die man nur Zugriff erhält, wenn man die korrekten Anmeldedaten (Benutzername und Passwort) hat. Eine Gedanken-Sammlung
-Nach dem ersten Start erscheint die Aufforderung einen Gedanken-Bibliothek und Gedanken-Sammlung anzulegen. Dazu muss man ein Verzeichnis angeben, wo die Gedanken-Sammlung gespeichert werden soll. Außerdem muss man der Gedanken-Sammlung einen Namen geben und ein Benutzername und Passwort wählen. Die Anmeldedaten sind sehr wichtig, da nur damit der Zugriff erfolgen kann. Sollten die Anmeldedaten einmal vergessen werden, kann niemand mehr auf die Daten zugreifen.
+Alle Gedanken, die man mit Sorting Thoughts erfaßt, werden in einer verschlüsselten Gedanken-Bibliothek abgelegt.
 
-[ST Gedanken-Bibliothek](/assets/images/ST-Doku-Diagramme.001.png)
+Nach dem ersten Start erscheint die Aufforderung einen Gedanken-Bibliothek anzulegen. Dazu muss man ein Verzeichnis angeben, wo die Gedanken-Bibliothek gespeichert werden soll. Außerdem muss ein Passwort wählt werden.
 
-**Schritt 3: Gedanken-Sammlung anlegen**
+Eine Gedanken-Bibliothek ist die Hülle für mehrere Gedanken-Sammlungen, die wiederum mit einem Benutzername und Passwort geschützt sind.
+
+Die Anmeldedaten für die Bibliothek und Sammlungen sind sehr wichtig, da nur damit der Zugriff erfolgen kann.
+
+**ACHTUNG: Anmeldedaten umbedingt merken! Es gibt keine Passwort-Erinnerungsfunktion - nur Sie kennen das Passwort!**
+
+// TODO: Bild Bibliothek anlegen
+
+// TODO: Bild Sammlung anlegen
+
 
 **Schritt 4: den ersten Gedanken anlegen**
 
+Nachdem eine Sammlung erstellt wurde, kann ein Gedanke über das Menü oder durch Drücken der Tastenkombination *"Strg+N"* bzw. unter macOS *"Command + N"* erstellt werden.  
 
+// TODO: Bild Gedanke erstellen
+
+### Hauptbedienelemente der Desktop Version
+
+// TODO: GUI Bild mit Erklärung
 
 ## Schnelleinstieg iOS Version
 
@@ -33,3 +47,7 @@ Nach dem ersten Start erscheint die Aufforderung einen Gedanken-Bibliothek und G
 **Schritt 2: Gedanken-Sammlung anlegen**
 
 **Schritt 3: den ersten Gedanken anlegen**
+
+### Hauptbedienelemente der iOS Version
+
+// TODO: GUI Bild mit Erklärung
