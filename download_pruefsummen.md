@@ -20,7 +20,7 @@ Um mehr über Prüfsummen zu erfahren, besuchen Sie bitte [Wikipedia.org](http:/
 | ST-64bit-v1-4-0.dmg | 1d75b512a70177d234b76ad3b53ef7ce |
 | ST-Tiger-32bit-v1-4-0.dmg | 7865a9a98971407a49b7c866669a9944 |
 
-### Prüfsumme unter macOS erzeugen
+## Prüfsumme unter macOS erzeugen
 Das Terminal Programm öffnen, mit dem cd Befehl zum Verzeichnis wechseln indem sich die Datei befindet und dann den md5 Befehl benutzen:
 
     cd Downloads
@@ -31,5 +31,5 @@ oder für SHA-1
     shasum -a 1 ST-v2-0-0.dmg
 
 
-### Prüfsumme unter Windows erzeugen
+## Prüfsumme unter Windows erzeugen
 Unter Windows gibt es verschiedene Programme mit denen man einen Prüfsumme erzeugen kann, z.B. [HashCheck](https://github.com/gurnec/HashCheck/releases).
