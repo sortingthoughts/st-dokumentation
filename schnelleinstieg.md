@@ -23,7 +23,9 @@ Eine Gedanken-Bibliothek ist die Hülle für mehrere Gedanken-Sammlungen, die wi
 
 Die Anmeldedaten für die Bibliothek und Sammlungen sind sehr wichtig, da nur damit der Zugriff erfolgen kann.
 
+---------------
 **ACHTUNG: Anmeldedaten umbedingt merken! Es gibt keine Passwort-Erinnerungsfunktion - nur Sie kennen das Passwort!**
+---------------
 
 // TODO: Bild Bibliothek anlegen
 
