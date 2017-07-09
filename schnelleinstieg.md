@@ -21,7 +21,7 @@ Nach dem ersten Start erscheint die Aufforderung einen Gedanken-Bibliothek anzul
 
 Eine Gedanken-Bibliothek ist die Hülle für mehrere Gedanken-Sammlungen, die wiederum mit einem Benutzername und Passwort geschützt sind.
 
-Die Anmeldedaten für die Bibliothek und Sammlungen sind sehr wichtig, da nur damit der Zugriff erfolgen kann.
+Die Anmeldedaten für die Bibliothek und Sammlungen sind sehr wichtig, da nur damit der Zugriff erfolgen kann. Weitere Informationen gibt es im [Benutzerhandbuch](/handbuch/gedanken_bibliothek.md).
 
 ---------------
 
@@ -36,7 +36,7 @@ Die Anmeldedaten für die Bibliothek und Sammlungen sind sehr wichtig, da nur da
 
 **Schritt 4: den ersten Gedanken anlegen**
 
-Nachdem eine Sammlung erstellt wurde, kann ein Gedanke über das Menü oder durch Drücken der Tastenkombination *"Strg+N"* bzw. unter macOS *"Command + N"* erstellt werden.  
+Nachdem eine Sammlung erstellt wurde, kann ein Gedanke über das Menü oder durch Drücken der Tastenkombination *"Strg+N"* bzw. unter macOS *"Command + N"* erstellt werden. Weitere Informationen gibt es im [Benutzerhandbuch](/handbuch/gedanken_verwalten.md).
 
 // TODO: Bild Gedanke erstellen
 
