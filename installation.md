@@ -12,7 +12,7 @@ __Inhalt__
 ### Installationsvorraussetzungen
 
 * Windows Vista SP2 oder besser
-* macOS 10.8.3 oder besser
+* macOS 10.8.3 (Mountain Lion) oder besser
 * mindestens 1 GB RAM
 * 300 MB freier Festplattenspeicher
 * Sprachen: Deutsch, Englisch
