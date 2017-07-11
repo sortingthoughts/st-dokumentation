@@ -10,7 +10,7 @@ __Inhalt__
 ## Versionsvergleich
 
 ### Desktop Version
-| Funktionen (Windows / macOS) | Freie-Version | Vollversion |
+| Funktionen (Windows / macOS) | Freie-Version | Vollversion
 |:--------|:-------:|:-------:|
 |Standard Gedanken verwalten | ✅ | ✅ |
 |Externe Verweise | ✅ | ✅ |
@@ -35,7 +35,7 @@ __Inhalt__
 |Sync Service Anbindung | | ✅ |
 
 ### iOS Version
-| Funktionen (iPhone / iPad) | Freie-Version | Min Pack | Max Pack | Sync Abo |
+| Funktionen (iPhone / iPad) | Freie-Version | Min Pack | Max Pack | Sync Abo 
 |:--------|:-------:|:-------:|:-------:|:-------:|
 |Standard Gedanken verwalten | ✅ | ✅ | ✅ | ✅ |
 |Externe Verweise | ✅ | ✅ | ✅ | ✅ |
