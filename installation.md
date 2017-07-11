@@ -52,3 +52,7 @@ __Inhalt__
 1. [App im App Store aufrufen](https://itunes.apple.com/de/app/sorting-thoughts/id932094917)
 2. kostenlos herunterladen und installieren
 2. Sorting Thoughts App starten
+
+## Versionsvergleich
+
+Siehe [Versionsvergleich](versionsvergleich.md)
