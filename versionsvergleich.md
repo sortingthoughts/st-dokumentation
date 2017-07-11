@@ -40,8 +40,6 @@ __Inhalt__
 | Funktionen (iPhone / iPad) | Freie-Version | Min Pack | Max Pack | Sync Abo
 |:--------|:-------:|:-------:|:-------:|:-------:|
 |Standard Gedanken verwalten | ✅ | ✅ | ✅ | ✅ |
-|Externe Verweise | ✅ | ✅ | ✅ | ✅ |
-|Interne Verweise | ✅ | ✅ | ✅ | ✅ |
 |100% Privatsphäre | ✅ | ✅ | ✅ | ✅ |
 |Keine Werbung | ✅ | ✅ | ✅ | ✅ |
 |Kein Benutzer-Tracking | ✅ | ✅ | ✅ | ✅ |
