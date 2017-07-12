@@ -15,7 +15,7 @@ Nach dem ersten Start erscheint die Aufforderung einen Gedanken-Bibliothek und G
 
 **Sollten die Anmeldedaten einmal vergessen werden, kann niemand mehr auf die Daten zugreifen.**
 
-![ST Gedanken-Bibliothek](/assets/images/ST-Doku-Diagramme.001.png)
+![ST Gedanken-Bibliothek](../assets/images/ST-Doku-Diagramme.001.png)
 
 ## Gedanken-Bibliothek erstellen
 
