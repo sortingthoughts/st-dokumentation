@@ -29,9 +29,11 @@ Die Anmeldedaten für die Bibliothek und Sammlungen sind sehr wichtig, da nur da
 
 ---------------
 
-// TODO: Bild Bibliothek anlegen
+![Erster Schritt](/assets/images/start-erster-schritt.png)
 
-// TODO: Bild Sammlung anlegen
+![Neue Bibliothek](/assets/images/start-neue-bibliothek.png)
+
+![Neue Sammlung](/assets/images/start-neue-sammlung.png)
 
 
 **Schritt 4: den ersten Gedanken anlegen**

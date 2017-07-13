@@ -9,7 +9,7 @@ __Inhalt__
 
 ## Gedanken-Bibliothek und Gedanken-Sammlung
 
-Alle Gedanken, die man mit Sorting Thoughts erfassen kann, werden in einer Gedanken-Sammlung abgelegt. Eine Gedanken-Sammlung wird wiederum in einer Gedanken-Bibliothek abgelegt. Technisch gesehen ist eine Gedanken-Bibliothek eine verschlüsselte Datenbank auf die man nur Zugriff erhält, wenn man die korrekten Anmeldedaten (Benutzername und Passwort) hat. Eine Gedanken-Sammlung
+Alle Gedanken, die man mit Sorting Thoughts erfassen kann, werden in einer Gedanken-Sammlung abgelegt. Eine Gedanken-Sammlung wird wiederum in einer Gedanken-Bibliothek abgelegt. Technisch gesehen ist eine Gedanken-Bibliothek eine verschlüsselte Datenbank auf die man nur Zugriff erhält, wenn man die korrekten Anmeldedaten hat. Eine Gedanken-Sammlung
 
 Nach dem ersten Start erscheint die Aufforderung einen Gedanken-Bibliothek und Gedanken-Sammlung anzulegen. Dazu muss man ein Verzeichnis angeben, wo die Gedanken-Bibliothek gespeichert werden soll. Außerdem muss man der Gedanken-Sammlung einen Namen geben und ein Benutzername und Passwort wählen. Die Anmeldedaten sind sehr wichtig, da nur damit der Zugriff erfolgen kann.
 
@@ -28,3 +28,5 @@ Nach dem ersten Start erscheint die Aufforderung einen Gedanken-Bibliothek und G
 ### Sammlungen sperren
 
 ## Zwischen Gedanken-Sammlung wechseln
+
+## Auto Anmeldung / Login
