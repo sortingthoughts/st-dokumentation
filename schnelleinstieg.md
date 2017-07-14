@@ -44,7 +44,7 @@ Nachdem eine Sammlung erstellt wurde, kann ein Gedanke über das Menü oder durc
 
 ### Hauptbedienelemente der Desktop Version
 
-// TODO: GUI Bild mit Erklärung
+![ST Erklaert](/assets/images/st-erklaert.png)
 
 ## Schnelleinstieg iOS Version
 
