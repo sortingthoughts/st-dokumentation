@@ -40,7 +40,7 @@ Die Anmeldedaten für die Bibliothek und Sammlungen sind sehr wichtig, da nur da
 
 Nachdem eine Sammlung erstellt wurde, kann ein Gedanke über das Menü oder durch Drücken der Tastenkombination *"Strg+N"* bzw. unter macOS *"Command + N"* erstellt werden. Weitere Informationen gibt es im [Benutzerhandbuch](/handbuch/gedanken_verwalten.md).
 
-// TODO: Bild Gedanke erstellen
+![Gedanke anlegen](/assets/images/gedanke-anlegen.png)
 
 ### Hauptbedienelemente der Desktop Version
 
