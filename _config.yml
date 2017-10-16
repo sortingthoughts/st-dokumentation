@@ -3,7 +3,9 @@ theme: jekyll-theme-cayman
 title: Sorting Thoughts - Dokumentation
 description: Dokumention von Sorting Thoughts (Desktop und mobile Version)
 
-url: "https://sortingthoughts.github.io/st-dokumentation"
+author: Hendrik Ebel
+locale: de_DE
+url: "https://sortingthoughts.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
