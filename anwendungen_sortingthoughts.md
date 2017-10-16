@@ -33,7 +33,7 @@ Sorting Thoughts hat den Anspruch so vertrauenswürdig zu sein, das sprichwörtl
 
 ### 3. Nützlichkeit
 
-Die Nützlichkeit eines Notizprogramms zeigt sich im Arbeitsalltag aber auch im Leben nach der Arbeit. Sorting Thoughts kann flexibel mit Notizen umgehen, da die Struktur und Ablage frei nach den eigenen Anforderungen angepasst werden kann. Sorting Thoughts ist neben der Desktop Version für Windows und macOS auch für mobile iOS Geräte (iPhone und iPad) verfügbar und kann so als täglicher Begleiter im Berufsleben und im privatem benutzt werden.
+Die Nützlichkeit eines Notizprogramms zeigt sich im Arbeitsalltag, aber auch im Leben nach der Arbeit. Sorting Thoughts kann flexibel mit Notizen umgehen, da die Struktur und Ablage frei nach den eigenen Anforderungen angepasst werden kann. Sorting Thoughts ist neben der Desktop Version für Windows und macOS auch für mobile iOS Geräte (iPhone und iPad) verfügbar und kann so als täglicher Begleiter im Berufsleben und im privatem benutzt werden. Darüberhinaus ermöglicht der Sync-Service einen Abgleich der Gedanken zwischen den verwendeten Geräten.
 
 ### Anwendungsbeispiele
 
@@ -45,6 +45,7 @@ Die Nützlichkeit eines Notizprogramms zeigt sich im Arbeitsalltag aber auch im 
 * Geheimfach für Notizen
 * Studienbuch	in Studium und Schule
 * elektronisches Langzeitgedächtnis
+* Ablage vertraulicher Daten
 
 ### Funktionsüberblick der Desktop Version
 
