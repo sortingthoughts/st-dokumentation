@@ -23,7 +23,7 @@ Sorry, aber leider kannst Du jetzt nicht mehr auf deine Daten zugreifen, da nur 
 
 ---------------
 
- #### Was ist der Unterschied zwischen der Single und Family Version?
+#### Was ist der Unterschied zwischen der Single und Family Version?
 
 Die Family Version kann von bis zu 5 Benutzern verwendet werden und eignet sich auch für kleine Unternehmen.  
 

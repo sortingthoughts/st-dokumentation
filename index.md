@@ -18,9 +18,11 @@
 
 ## Weitere Informationen
 * [Projekt-Homepage](https://www.sortingthoughts.de/blog/de/)
-* [Bildschirmfotos](https://www.sortingthoughts.de/blog/de/screenshots/)
-* [Versionsvergleich](versionsvergleich.md)
 * [Download](https://www.sortingthoughts.de/blog/de/download/)
+* [Bildschirmfotos](https://www.sortingthoughts.de/blog/de/screenshots/)
+* [Screencast Videos](https://www.youtube.com/user/SortingThoughts)
+* [Versionsvergleich](versionsvergleich.md)
+* [Versionsänderungen Desktop-Version](versionsaenderungen.md)
 
 ## Support und Kontakt
 Probleme, Fragen und Anregungen zu Sorting Thoughts können gerne über dieses [Kontakt Formular](https://www.sortingthoughts.de/blog/de/report-a-bug/) gemeldet werden.
