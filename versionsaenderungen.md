@@ -7,6 +7,20 @@ __Inhalt__
 {:toc}
 ---------------
 
+Versionsänderungen im Detail für die Desktop Version (Windows und macOS)
+
+# Version 2.0.0 (??.??.2017)
+
+Fehler
+- ...
+
+Verbesserungen
+- ...
+
+Neue Funktionen
+- ...
+
+
 # Version 1.4.0 (27. Nov 2012)
 Fehler
 - Broken Thought by adding a too big attachment
