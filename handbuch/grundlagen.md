@@ -8,3 +8,6 @@ __Inhalt__
 ---------------
 
 ## Grundlagen
+
+* [Desktop-Version](grundlangen_desktop.md)
+* [Mobile-Version](grundlagen_mobile.md)

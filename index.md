@@ -3,7 +3,7 @@
 * [Die Geschichte von Sorting Thoughts](ueber_sortingthoughts.md)
 * [Für wen ist Sorting Thoughts gemacht?](anwendungen_sortingthoughts.md)
 
-## Desktop und iOS Version
+## Desktop und Mobile-Version
 * [Schnelleinstieg](schnelleinstieg.md)
 * [Installation](installation.md)
 * [Benutzerhandbuch](benutzerhandbuch.md)
@@ -15,6 +15,7 @@
 
 ## Sync Service
 * [Überblick](sync_service.md)
+* [Wartungsmitteilungen via Twitter](https://twitter.com/sortedThoughts)
 
 ## Weitere Informationen
 * [Projekt-Homepage](https://www.sortingthoughts.de/blog/de/)
