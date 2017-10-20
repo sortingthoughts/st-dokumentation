@@ -9,5 +9,5 @@ __Inhalt__
 
 ## Grundlagen
 
-* [Desktop-Version](grundlangen_desktop.md)
+* [Desktop-Version](grundlagen_desktop.md)
 * [Mobile-Version](grundlagen_mobile.md)
