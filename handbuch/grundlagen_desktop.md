@@ -34,11 +34,17 @@ Der Inhalt eines Gedankens wird im Editor bearbeitet. Der Editor verfügt über 
 - Unterstreichen
 - Durchstreichen
 
-Darüber hinaus können innerhalb des Gedanken-Texts Verweise angelegt werden. Siehe dazu Gedanken Verlinken
+Darüber hinaus können innerhalb des Gedanken-Texts Verweise angelegt werden. Siehe dazu [Gedanken Verlinken](https://sortingthoughts.github.io/st-dokumentation/handbuch/gedanken_verwalten.html#verlinken)
+
+![Standard Editor](../assets/images/editor-standard.png)
+
+Für Projekte, Aufgaben und Ereignisse gibt es erweiterte Editoren. Sie erlauben die Erfassung weiterer Daten. Die folgende Abbildung zeigt einen Projekteditor:
+
+![Projekt Editor](../assets/images/projekt-editor.png)
 
 ### Gedanke drucken
 
-Gedanken können über den im Menü oder im Kontextmenü des Editors erreichbaren Druckdialog ausgedruckt werden. Siehe auch [Tastaturbelegungen](#Tastaturbelegungen).
+Gedanken können über den im Menü oder im Kontextmenü des Editors erreichbaren Druckdialog ausgedruckt werden. Siehe auch [Tastaturbelegungen](https://sortingthoughts.github.io/st-dokumentation/handbuch/grundlagen_desktop.html#tastaturbelegungen).
 
 ![Drucken Menü](../assets/images/drucken-menu.png)
 
