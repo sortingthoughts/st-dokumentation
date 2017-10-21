@@ -96,7 +96,7 @@ Der Bereich "Anhänge" unter dem Gedanken-Editor verfügt über ein Kontextmenü
 | Vergrößern / Verkleinern | Vergrößert oder verkleinert die Miniaturdarstellung der Dateien.|
 | Auf Änderungen prüfen | Prüft ob geöffnete Anhänge geändert wurden und erlaubt das aktualisieren der Anhänge. |
 
-![Anhänge](../assets/anhaenge.png)
+![Anhänge](../assets/images/anhaenge.png)
 
 
 ### Tastaturbelegungen
