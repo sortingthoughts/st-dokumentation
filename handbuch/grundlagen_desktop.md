@@ -49,9 +49,37 @@ Gedanken können über den im Menü oder im Kontextmenü des Editors erreichbare
 ![Drucken Menü](../assets/images/drucken-menu.png)
 
 ### Gedanke duplizieren
+
+Gedanken können über das Kontextmenü (Rechtsklick auf den Gedanken) dupliziert werden. Falls der Gedanke weitere Untergedanken hat, kann man auswählen ob diese ebenfalls dupliziert werden sollen. Anhänge können ebenfalls mit dupliziert werden, falls gewünscht.
+
+![Gedanke duplizieren](../assets/images/gedanke-duplizieren.png)
+
 ### Gedanke löschen
+
+Um Gedanken zu löschen, einfach im Kontextmenü (Rechtsklick auf den Gedanken) Löschen auswählen. Wenn der Gedanke weitere Sub-Gedanken hat, ist es möglich diese ebenfalls zu löschen.
+
+![Gedanke löschen](../assets/images/gedanke-loeschen.png)
+
+Nach der Bestätigung zum Löschen wird der Gedanke in der Papierkorb verschoben. Gedanken, die sich im Papierkorb befinden, können jederzeit wiederhergestellt werden solange der Papierkorb nicht geleert wurde.
+
+![Gedanke wiederherstellen](../assets/images/papierkorb-wiederherstellen.png)
+
 ### Gedanke mit einer Farbe markieren
+
+Damit Gedanken im Navigationsbaum schneller wiedergefunden werden können, ist es möglich Gedanken farblich zu markieren. Dazu einfach per Rechtsklick auf einen Gedanken den Farb-Marker Dialog öffnen und eine Farbe auswählen.
+
+![Gedanke markieren](../assets/images/gedanke-markieren.png)
+
+Die einzelnen Farbnamen können in den Programmeinstellungen geändert werden, wie die nächste Abbildung zeigt:
+
+![Farbnamen ändern](../assets/images/einstellungen-farben.png)
+
 ### Gedanke umbenennen
+
+Der Name eines Gedanken kann über den Kontextmenüpunkt Umbenennen (Rechtsklick auf einen Gedanken) geändert werden. Es ist möglich Namen mehrfach zu vergeben.
+
+![Gedanke umbenennen](../assets/images/gedanke-umbenennen.png)
+
 ### Gedanke verschieben
 ### Dateien anhängen
 ### Tastaturbelegungen
