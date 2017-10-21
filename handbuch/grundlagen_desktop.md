@@ -81,6 +81,9 @@ Der Name eines Gedanken kann über den Kontextmenüpunkt Umbenennen (Rechtsklick
 ![Gedanke umbenennen](../assets/images/gedanke-umbenennen.png)
 
 ### Gedanke verschieben
+
+Gedanken können einfach per Ziehen und Fallenlassen (Drag und Drop) im Navigationsbaum verschoben werden.
+
 ### Dateien anhängen
 
 An jedem Gedanken können beliebige Dateien angehängt werden. Die Dateien werden ebenfalls in der Gedanken-Sammlung (Datenbank) gespeichert. Der einfachste Weg Dateien anzuhängen ist die entsprechenden Dateien per Drag und Drop auf den Gedanken zu ziehen.
