@@ -1,24 +1,10 @@
 ---
 title: "Gedanken verwalten"
 ---
----------------
-__Inhalt__
-* TOC
-{:toc}
----------------
 
 ## Gedanken verwalten
 
 Sorting Thoughts stellt verschiedene Funktionen bereit, die es ermöglichen seine Gedanken auf einfache Art und Weise zu verwalten.
 
-### Strukturieren
-
-### Sortieren
-
-### Verlinken
-
-### Suchen und Filtern
-
-### Metadaten
-
-### Stichwörter
+* [Desktop-Version](gedanken_verwalten_desktop.md)
+* [Mobile-Version](gedanken_verwalten_mobile.md)
