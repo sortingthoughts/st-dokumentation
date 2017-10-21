@@ -82,6 +82,23 @@ Der Name eines Gedanken kann über den Kontextmenüpunkt Umbenennen (Rechtsklick
 
 ### Gedanke verschieben
 ### Dateien anhängen
+
+An jedem Gedanken können beliebige Dateien angehängt werden. Die Dateien werden ebenfalls in der Gedanken-Sammlung (Datenbank) gespeichert. Der einfachste Weg Dateien anzuhängen ist die entsprechenden Dateien per Drag und Drop auf den Gedanken zu ziehen.
+
+Der Bereich "Anhänge" unter dem Gedanken-Editor verfügt über ein Kontextmenü (aufrufen per Rechtsklick) mit zusätzliche Funktionen:
+
+| Menüpunkt | Funktion
+|:--------|:-------:|
+| Öffnen | Öffnet die Datei mit dem Standard-Programm, das im Betriebssystem definiert wurde. |
+| Export | Exportiert die Datei in ein Verzeichnis. |
+| Details | Öffnet einen Dialog mit zusätzlichen Informationen über die Datei. |
+| Löschen | Löscht die Datei permanent.|
+| Vergrößern / Verkleinern | Vergrößert oder verkleinert die Miniaturdarstellung der Dateien.|
+| Auf Änderungen prüfen | Prüft ob geöffnete Anhänge geändert wurden und erlaubt das aktualisieren der Anhänge. |
+
+![Anhänge](../assets/anhaenge.png)
+
+
 ### Tastaturbelegungen
 
 
