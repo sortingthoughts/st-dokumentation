@@ -67,10 +67,12 @@ Durch die Verwendung von folgenden Suchoptionen kann die Suche sehr flexibel ges
 
 | Suchoption | Beschreibung | Beispiel |
 |:--------|:-------:|:-------:|
-| Platzhalter oder so genannte Wildcards | Um einen Platzhalter für ein einzelnes Zeichen anzugeben, wird ein "?" benutzt. Um ein Platzhalter für mehrere Zeichen anzugeben, wird ein "*" benutzt. <br> <br>Hinweis: Beide Platzhalter können sowohl innerhalb, als auch am Ende des Suchwortes stehen, jedoch nicht am Anfang.| **te?t** würde nach allen Wörtern wie "test" oder "text" suchen.<br><br> **test***  würde nach allen Wörtern wie "test" oder "tester" suchen. |
+| Platzhalter oder so genannte Wildcards | Um einen Platzhalter für ein einzelnes Zeichen anzugeben, wird ein "?" benutzt. Um ein Platzhalter für mehrere Zeichen anzugeben, wird ein "*" benutzt. <br> <br>Hinweis: Beide Platzhalter können sowohl innerhalb, als auch am Ende des Suchwortes stehen, jedoch nicht am Anfang.| **te?t** <br>würde nach allen Wörtern wie "test" oder "text" suchen.<br><br> **test*** <br>würde nach allen Wörtern wie "test" oder "tester" suchen. |
 | Wortgruppen | Wortgruppen können durch das Umschliessen von Anführungszeichen gesucht werden. | **"test text"** <br> sucht nur nach Einträgen, die als Gruppe die Wörter "test" und "text" enthalten. |
 | logische Verknüpfungen | Logische Verknüpfungen können mit Hilfe der Operatoren AND und OR vorgenommen werden. Die OR Verknüpfung wird standardmäßig vorgenommen, man muss sie nicht explizit schreiben. <br><br> Es ist auch möglich durch den NOT Operator Suchwörter auszuschliessen. | **test AND text** <br> sucht alle Einträge, die sowohl das Wort "test" und "text" enthalten. <br><br> **test OR text** bzw. **test text** <br>sucht alle Einträge, die "test" oder "text" enthalten. <br><br> **test NOT text** <br> sucht nur nach Einträgen, die "test" enthalten, aber nicht das Wort "text" |
 | Felder | Um nur in Gedankennamen zu suchen, kann man das Präfix "THOUGHT_TITLE:" vor das Suchwort stellen. | **THOUGHT_TITLE:test** <br> sucht nur nach Einträgen, die das Wort "test" im Namen enthalten. |
+
+![Gedanken suchen](../assets/images/gedanken-suchen.png)
 
 #### Filter
 
@@ -83,7 +85,7 @@ Neben der Suche gibt es auch Filterfunktionen mit denen es möglich ist, einen s
 | Projekte (Büro, Privat, Sonstige, Alle)	| mbP, mpP, msP, mP |
 | Ereignisse	| mE |
 
-*) das Suchwort mnA steht zum Bsp. für "meine nächsten Aufgaben" und mbP für "meine büro Projekte"
+\*) das Suchwort mnA steht zum Bsp. für "**m**eine **n**ächsten **A**ufgaben" und mbP für "**m**eine **b**üro **P**rojekte"
 
 ![Suchfilter](../assets/images/such-filter.png)
 
