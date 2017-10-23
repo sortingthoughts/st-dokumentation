@@ -62,4 +62,49 @@ Allen ankommenden und abgehenden Verweise eines Gedanken sind zusammenfassend au
 
 ### Metadaten
 
+Jeder Gedanke verfügt über so genannte Metadaten, die weitere Information über den Gedanken bereitstellen. So ist z.B. über den Info Karteireiter ersichtlich wie alt ein Gedanke ist, wann er das letzte mal geändert wurde oder wie viele Wörter er enthält. Projekte und Aufgaben haben zusätzlich noch weitere Metadaten, die u.a. Informationen über die Statusänderungen beinhalten - siehe auch Spezielle Gedanken.
+
+Metadaten:
+* Erstelldatum
+* Alter des Gedanken
+* Datum der letzten Änderung
+* Datum der letzten Ansicht
+* Datum der letzten Synchronisierung (siehe auch HP webOS und Android Sync)
+* Anzahl der ausgehenden und ankommenden Verweise
+* Anzahl der Stichwörter
+* Anzahl der Sub-Gedanken
+* Wortzahl
+
+![Metadaten](../assets/images/metadaten.png)
+
+
 ### Stichwörter
+
+#### Stichwörter vergeben
+
+Falls die starre hierarchische Baumstruktur für Gedanken nicht ausreicht, um Gedanken zu ordnen, ist es zusätzlich möglich Gedanken mit Stichwörtern bzw. Tags zu versehen. Einem Stichwort können beliebig viele Gedanken zu geordnet werden und ein Gedanke kann auch beliebig viele Stichwörter haben.
+Um ein Gedanken mit Stichwörtern zu versehen, muss der Stichwörter Dialog aus dem gleichnamigen Bereich geöffnet werden. Dort kann man Stichwörter frei definieren oder bestehende Stichwörter auswählen Mehrere Stichwörter sind einfach durch Komma zu trennen.
+
+![Stichwörter vergeben](../assets/images/stichwoerter-vergeben.png)
+
+Übrigens falls ein Stichwort nicht mehr benutzt wird, verschwindet es aus der Stichwortliste.
+
+#### Navigation per Stichwort
+
+Alle Stichwörter werden in einer extra Stichwörter-Ansicht aufgelistet und lassen sich dort nach Verwendung und Namen sortieren. So ist es möglich einen schnellen Überblick über alle Stichwörter zu bekommen und Gedanken aus dieser Ansicht heraus zu öffnen.
+Aus dem Stichwörter-Bereich unterhalb eines Gedanken kann ebenfalls direkt zur Stichwörter-Ansicht gesprungen werden. Dazu einfach auf das jeweilige Stichwort doppelklicken. So kann man schnell alle anderen Gedanken sehen, die auch dieses Stichwort besitzen.
+
+![Stichwörter navigation](../assets/images/stichwoerter-navigation.png)
+
+#### Anwendung für Projekte und Aufgaben
+
+Stichwörter sind besonders nützlich für Projekte und Aufgaben, da so weitere Ordnungskriterien sehr leicht hinzugefügt und gepflegt werden können. Ein Projekt oder eine Aufgabe kann z.B. an einem bestimmten Ort oder für einen bestimmten Kunden oder zu einer bestimmten Zeit stattfinden. Folgenden Stichwörtern können so beispielsweise für mehr Übersicht sorgen:
+
+| Ordnungskriterium | Stichwort Beispiele |
+|:--------|:-------:|
+| Ort	|  @Berlin, @Dubai |
+| Person| KundeMaier, Max Mustermann|
+| Zeit	| 0-Täglich, 1-Jetzt, 2-Nächstes, 3-Bald, 4-Später, 5-Irgendwann, 6-Aufgeschoben|
+| Was	|  Aktives Projekt, Inaktives Projekt, Idee, Forschungsprojekt|
+| Bewertung	| Erfolgreiches Projekt, Desaster Projekt|
+| Kontext	| Produktname, Technologiename, Überprojekt, Budget |
