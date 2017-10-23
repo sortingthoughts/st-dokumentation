@@ -60,6 +60,35 @@ Allen ankommenden und abgehenden Verweise eines Gedanken sind zusammenfassend au
 
 ### Suchen und Filtern
 
+#### Textsuche
+
+Die Sucheingabe über dem Gedanken-Baum ermöglicht das schnelle Auffinden von Gedanken. Einfach das Suchwort eintippen und die Entertaste drücken. Im Gedanken-Baum werden dann alle Suchtreffer sichtbar. Die Suche berücksichtigt sowohl den Gedankennamen als auch den Inhalt des Gedanken. Durch Löschen des Suchwortes in der Sucheingabe werden wieder alle Gedanken sichtbar.
+Durch die Verwendung von folgenden Suchoptionen kann die Suche sehr flexibel gestaltet werden:
+
+| Suchoption | Beschreibung | Beispiel |
+|:--------|:-------:|:-------:|
+| Platzhalter oder so genannte Wildcards | Um einen Platzhalter für ein einzelnes Zeichen anzugeben, wird ein "?" benutzt. Um ein Platzhalter für mehrere Zeichen anzugeben, wird ein "*" benutzt. <br> <br>Hinweis: Beide Platzhalter können sowohl innerhalb, als auch am Ende des Suchwortes stehen, jedoch nicht am Anfang.| **te?t** würde nach allen Wörtern wie "test" oder "text" suchen.<br><br> **test***  würde nach allen Wörtern wie "test" oder "tester" suchen. |
+| Wortgruppen | Wortgruppen können durch das Umschliessen von Anführungszeichen gesucht werden. | **"test text"** <br> sucht nur nach Einträgen, die als Gruppe die Wörter "test" und "text" enthalten. |
+| logische Verknüpfungen | Logische Verknüpfungen können mit Hilfe der Operatoren AND und OR vorgenommen werden. Die OR Verknüpfung wird standardmäßig vorgenommen, man muss sie nicht explizit schreiben. <br><br> Es ist auch möglich durch den NOT Operator Suchwörter auszuschliessen. | **test AND text** <br> sucht alle Einträge, die sowohl das Wort "test" und "text" enthalten. <br><br> **test OR text** bzw. **test text** <br>sucht alle Einträge, die "test" oder "text" enthalten. <br><br> **test NOT text** <br> sucht nur nach Einträgen, die "test" enthalten, aber nicht das Wort "text" |
+| Felder | Um nur in Gedankennamen zu suchen, kann man das Präfix "THOUGHT_TITLE:" vor das Suchwort stellen. | **THOUGHT_TITLE:test** <br> sucht nur nach Einträgen, die das Wort "test" im Namen enthalten. |
+
+#### Filter
+
+Neben der Suche gibt es auch Filterfunktionen mit denen es möglich ist, einen schnellen Überblick über bestimmt Gedanken-Typen zu erhalten. Die Filter sind per Rechtsklick auf das Sucheingabefeld erreichbar. Wie das nachfolgenden Bildschirmfoto zeigt gibt es folgende Filter:
+
+| Filter | Suchwort für Schnellzugriff * |
+|:--------|:-------:|
+| Nächste Aufgaben - zeigt alle fälligen Aufgaben, sortiert nach Priorität und Ende-Datum	| mnA |
+| Aufgaben (Büro, Privat, Sonstige, Alle)	| mbA, mpA, msA, mA |
+| Projekte (Büro, Privat, Sonstige, Alle)	| mbP, mpP, msP, mP |
+| Ereignisse	| mE |
+
+*) das Suchwort mnA steht zum Bsp. für "meine nächsten Aufgaben" und mbP für "meine büro Projekte"
+
+![Suchfilter](../assets/images/such-filter.png)
+
+Wie bei der Suche, sind die übergeordneten Gedanken Teil der Ergebnismenge, um den Gedanken-Kontext zu erhalten.
+
 ### Metadaten
 
 Jeder Gedanke verfügt über so genannte Metadaten, die weitere Information über den Gedanken bereitstellen. So ist z.B. über den Info Karteireiter ersichtlich wie alt ein Gedanke ist, wann er das letzte mal geändert wurde oder wie viele Wörter er enthält. Projekte und Aufgaben haben zusätzlich noch weitere Metadaten, die u.a. Informationen über die Statusänderungen beinhalten - siehe auch Spezielle Gedanken.
