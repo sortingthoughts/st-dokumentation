@@ -43,7 +43,7 @@ __Inhalt__
 
 ### Installationsvorraussetzungen
 
-* iOS 8 oder besser
+* iOS 9 oder besser
 * kompatibel mit iPhone, iPad und iPod touch
 * Familienfreigabe für In-App Käufe wird unterstützt
 * Sprachen: Deutsch, Englisch

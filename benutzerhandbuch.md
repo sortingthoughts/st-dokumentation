@@ -9,3 +9,4 @@ title: "Benutzerhandbuch"
 ### [Gedanken verwalten](/handbuch/gedanken_verwalten.md)
 ### [Projekt und Aufgabenmanagement](/handbuch/projekte_und_aufgaben.md)
 ### [Sync Service](sync_service.md)
+### [Fragen und Antworten](fragen_und_antworten.md)
