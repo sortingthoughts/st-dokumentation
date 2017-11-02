@@ -4,6 +4,8 @@ title: "Benutzerhandbuch"
 
 ## Sorting Thoughts Benutzerhandbuch
 
+### [Schnelleinstieg](schnelleinstieg.md)
+### [Installation](installation.md)
 ### [Gedanken-Bibliothek](/handbuch/gedanken_bibliothek.md)
 ### [Grundlagen](/handbuch/grundlagen.md)
 ### [Gedanken verwalten](/handbuch/gedanken_verwalten.md)
