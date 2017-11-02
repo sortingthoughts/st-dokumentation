@@ -19,6 +19,10 @@ Jeder Projekt-Gedanke hat eine Aufgabenplan-Ansicht, die alle Unteraufgaben des 
 
 ![Gantt Chart](../assets/images/gantt-chart.png)
 
+Die Metadaten eines Projekt-Gedanken haben eine extra Sektion, die darüber Aufschluss gibt wie lange das Projekt in welchen Status war und wie viele untergeordnete Aufgaben das Projekt hat.
+
+![Projekt Metadaten](../assets/images/projekt-metadata.png)
+
 ### Aufgaben
 
 ![Aufgabe](../assets/images/aufgabe.png)
