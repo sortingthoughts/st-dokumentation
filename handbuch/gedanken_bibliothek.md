@@ -59,4 +59,6 @@ Jede Gedanken Sammlung wird wie oben beschrieben mit einem Passwortschutz verseh
 
 ### Automatisches Backup erstellen
 
-Die Desktop Version verfügt über eine automatische Backupfunktion, die die gesamte Gedanken-Bibliothek bzw. die Datenbank nach dem Beenden als ZIP Datei zusammenpackt und speichert.
+Die Desktop Version verfügt über eine automatische Backupfunktion, die die gesamte Gedanken-Bibliothek bzw. die Datenbank nach dem Beenden als ZIP Datei zusammenpackt und speichert. Es lässt sich außerdem einstellen wieviele Backup-Dateien bis zum nächsten Überschreiben bestehen bleiben sollen - maximal sind 10 Sicherungszyklen möglich.
+
+![Backup einrichten](../assets/images/backup.png)

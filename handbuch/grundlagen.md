@@ -11,4 +11,11 @@ Alles in Sorting Thoughts dreht sich um Gedanken bzw. um das Verwalten von textu
 
 Die folgende Abbildung zeigt die Hauptelement von Sorting Thoughts:
 
+**Desktop Version**
+
 ![ST Erklaert](../assets/images/st-erklaert.png)
+
+
+**Mobile Version iOS**
+
+![ST mobile erklärt](../assets/images/ios-st-erklaert.png)
