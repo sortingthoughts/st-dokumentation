@@ -24,3 +24,5 @@ Mein Name ist Hendrik Ebel, ich bin Software-Entwickler und lebe in der Nähe vo
 Übrigens, ich bin die einzige Person die Sorting Thoughts entwickelt und betreut – es gibt hier also kein großes Team von Entwicklern, Kundenbetreuern und Marketingleuten zu sehen. Also habt bitte Verständnis, dass das Handbuch nicht das dickste ist, meine Support-Antworten nicht die schnellsten sind und neue Funktionen etwas mehr Zeit brauchen.
 
 Viel Spass mit Sorting Thoughts!
+
+![Hendrik](/assets/images/sig.png)

@@ -56,7 +56,7 @@ Die App kann kostenlos via [App Store heruntergeladen](https://itunes.apple.com/
 
 Über das Plus Symbol auf dem Start Bildschirm kann einen Gedanken-Sammlung erstellt werden. Dazu muss wie bei der Desktop Version ein Benutzername und Passwort für die Sammlung vergeben werden.
 
-[iOS Gedanken-Sammlung anlegen](/assets/images/ios-erste-schritte.png)
+![iOS Gedanken-Sammlung anlegen](/assets/images/ios-erste-schritte.png)
 
 ---------------
 
