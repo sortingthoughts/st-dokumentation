@@ -9,6 +9,10 @@ __Inhalt__
 
 ## Grundlagen Desktop-Version
 
+Die folgende Abbildung zeigt die Hauptelement von Sorting Thoughts:
+
+![ST Erklaert](../assets/images/st-erklaert.png)
+
 ### Gedanke anlegen
 
 Ein Gedanke kann über das Menü oder durch Drücken der Tastenkombination Strg+N bzw. unter macOS Command+N erstellt werden.
