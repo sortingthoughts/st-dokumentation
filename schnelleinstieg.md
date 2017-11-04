@@ -11,7 +11,7 @@ __Inhalt__
 
 **Schritt 1: Installation**
 
-Sorting Thoughts für Windows oder macOS [herunterladen](https://www.sortingthoughts.de/blog/de/download/) und [Installation](installation.md) durchführen.
+Sorting Thoughts für Windows oder macOS [herunterladen](https://www.sortingthoughts.de/blog/de/download/) und [Installation](installation.md) durchführen. Sorting Thoughts wird als Shareware angeboten, d.h. die Grundfunktionen können unbegrenzt kostenlos genutzt werden. Um alle Funktionen benutzen zu können, muss ein Registrierungscode gekauft werden. Mehr Informationen dazu gibt hier: [Sorting Thoughts kaufen](https://www.sortingthoughts.de/blog/de/buy-sorting-thoughts/) Es ist ebenfalls möglich alle Funktionen bis auf den Sync-Service [30 Tage lang zu testen](https://www.sortingthoughts.de/blog/de/test-sorting-thoughts/).
 
 **Schritt 2: Gedanken Bibliothek und Sammlung anlegen**
 
@@ -50,10 +50,27 @@ Nachdem eine Sammlung erstellt wurde, kann ein Gedanke über das Menü oder durc
 
 **Schritt 1: Installation**
 
+Die App kann kostenlos via [App Store heruntergeladen](https://itunes.apple.com/us/app/sorting-thoughts/id932094917) werden. Zusätzliche Funktionen können als In-App Kauf erworben werden, siehe auch [Sorting Thoughts kaufen](https://www.sortingthoughts.de/blog/de/buy-sorting-thoughts/)
+
 **Schritt 2: Gedanken-Sammlung anlegen**
+
+Über das Plus Symbol auf dem Start Bildschirm kann einen Gedanken-Sammlung erstellt werden. Dazu muss wie bei der Desktop Version ein Benutzername und Passwort für die Sammlung vergeben werden.
+
+[iOS Gedanken-Sammlung anlegen](../assets/images/ios-erste-schritte.png)
+
+---------------
+
+**ACHTUNG: Auch hier gilt, Anmeldedaten umbedingt merken! Es gibt keine Passwort-Erinnerungsfunktion - nur Sie kennen das Passwort!**
+
+---------------
 
 **Schritt 3: den ersten Gedanken anlegen**
 
+Nach dem Anlegen der Sammlung kann man diese öffnen und wird direkt aufgefordert einen neuen Gedanken anlegen. Alle weiteren Gedanken können über folgendes Symbol erstellt werden:
+
+![Neuen Gedanken erstellen](../assets/images/ios-new-icon.png)
+
+
 ### Hauptbedienelemente der iOS Version
 
-// TODO: GUI Bild mit Erklärung
+![ST iOS erklärt](../assets/images/ios-st-erklaert.png)
