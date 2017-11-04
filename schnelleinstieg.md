@@ -11,13 +11,13 @@ __Inhalt__
 
 **Schritt 1: Installation**
 
-Sorting Thoughts für Windows oder macOS [herunterladen](https://www.sortingthoughts.de/blog/de/download/) und [Installation](installation.md) durchführen. Sorting Thoughts wird als Shareware angeboten, d.h. die Grundfunktionen können unbegrenzt kostenlos genutzt werden. Um alle Funktionen benutzen zu können, muss ein Registrierungscode gekauft werden. Mehr Informationen dazu gibt hier: [Sorting Thoughts kaufen](https://www.sortingthoughts.de/blog/de/buy-sorting-thoughts/) Es ist ebenfalls möglich alle Funktionen bis auf den Sync-Service [30 Tage lang zu testen](https://www.sortingthoughts.de/blog/de/test-sorting-thoughts/).
+Sorting Thoughts für Windows oder macOS [herunterladen](https://www.sortingthoughts.de/blog/de/download/) und [Installation](installation.md) durchführen. Sorting Thoughts wird als Shareware angeboten, d.h. die Grundfunktionen können unbegrenzt kostenlos genutzt werden. Um alle Funktionen benutzen zu können, muss ein Registrierungscode gekauft werden. Mehr Informationen dazu gibt hier: [Sorting Thoughts kaufen](https://www.sortingthoughts.de/blog/de/buy-sorting-thoughts/). Es ist ebenfalls möglich alle Funktionen bis auf den Sync-Service [30 Tage lang zu testen](https://www.sortingthoughts.de/blog/de/test-sorting-thoughts/).
 
 **Schritt 2: Gedanken Bibliothek und Sammlung anlegen**
 
 Alle Gedanken, die man mit Sorting Thoughts erfaßt, werden in einer verschlüsselten Gedanken-Bibliothek abgelegt.
 
-Nach dem ersten Start erscheint die Aufforderung einen Gedanken-Bibliothek anzulegen. Dazu muss man ein Verzeichnis angeben, wo die Gedanken-Bibliothek gespeichert werden soll. Außerdem muss ein Passwort wählt werden.
+Nach dem ersten Start erscheint die Aufforderung einen Gedanken-Bibliothek anzulegen. Dazu muss man ein Verzeichnis angeben, wo die Gedanken-Bibliothek gespeichert werden soll. Außerdem muss ein Passwort gewählt werden.
 
 Eine Gedanken-Bibliothek ist die Hülle für mehrere Gedanken-Sammlungen, die wiederum mit einem Benutzername und Passwort geschützt sind.
 
@@ -66,7 +66,7 @@ Die App kann kostenlos via [App Store heruntergeladen](https://itunes.apple.com/
 
 **Schritt 3: den ersten Gedanken anlegen**
 
-Nach dem Anlegen der Sammlung kann man diese öffnen und wird direkt aufgefordert einen neuen Gedanken anlegen. Alle weiteren Gedanken können über folgendes Symbol erstellt werden:
+Nach dem Anlegen der Sammlung kann man diese öffnen und wird direkt aufgefordert einen neuen Gedanken anzulegen. Alle weiteren Gedanken können über folgendes Symbol erstellt werden:
 
 ![Neuen Gedanken erstellen](/assets/images/ios-new-icon.png)
 
