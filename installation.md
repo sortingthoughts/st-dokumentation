@@ -72,9 +72,9 @@ Siehe [Versionsvergleich](versionsvergleich.md)
 
 <div class="pageNavigation">
 <div style="float:left;">
-  ◀️ [Schnelleinstieg](schnelleinstieg.md)
+  [◀️ Schnelleinstieg](schnelleinstieg.md)
 </div>
 <div style="float:right;">
-  [Benutzerhandbuch](benutzerhandbuch.md) ▶️
+  [Benutzerhandbuch ▶️](benutzerhandbuch.md) 
 </div>
 </div>  

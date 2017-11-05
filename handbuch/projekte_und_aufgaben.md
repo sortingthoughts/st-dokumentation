@@ -1,6 +1,16 @@
 ---
 title: "Projekt- und Aufgabenmanagement"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Gedanken verwalten](gedanken_verwalten.md)
+</div>
+<div style="float:right;">
+  [Sync Service ▶️](../sync_service.md)
+</div>
+</div>
+
 ---------------
 __Inhalt__
 * TOC

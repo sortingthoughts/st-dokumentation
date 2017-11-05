@@ -1,6 +1,16 @@
 ---
 title: "Über Sorting Thoughts"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Für wen ist ST ▶️](anwendungen_sortingthoughts.md)
+</div>
+</div>
+
 ---------------
 __Inhalt__
 * TOC
@@ -26,3 +36,15 @@ Mein Name ist Hendrik Ebel, ich bin Software-Entwickler und lebe in der Nähe vo
 Viel Spass mit Sorting Thoughts!
 
 ![Hendrik](/assets/images/sig.png)
+
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Für wen ist ST ▶️](anwendungen_sortingthoughts.md)
+</div>
+</div>

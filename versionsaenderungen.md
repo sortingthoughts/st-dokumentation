@@ -1,6 +1,16 @@
 ---
 title: "Versionsänderungen Desktop Version"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Installation ▶️](installation.md)
+</div>
+</div>
+
 ---------------
 __Inhalt__
 * TOC
@@ -114,3 +124,15 @@ Neue Funktionen
 
 # Version 1.0.0 (21. Dezember 2010)
 initial Version :-)
+
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Installation ▶️](installation.md)
+</div>
+</div>

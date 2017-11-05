@@ -1,6 +1,17 @@
 ---
 title: "Grundlagen Desktop-Version"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Gedanken-Bibliothek](gedanken_bibliothek.md)
+</div>
+<div style="float:right;">
+  [Gedanken verwalten ▶️](gedanken_verwalten_desktop.md)
+</div>
+</div>
+
+
 ---------------
 __Inhalt__
 * TOC
@@ -127,3 +138,15 @@ Der Bereich "Anhänge" unter dem Gedanken-Editor verfügt über ein Kontextmenü
 |Untergedanke anlegen |Crtl + K | Command + K |
 |Verweis aufrufen |Crtl + linke Maustaste | Command + linke Maustaste |
 |Vollbild (An / Aus) | Shift + Crtl + F | Shift + Command  + F |
+
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Gedanken-Bibliothek](gedanken_bibliothek.md)
+</div>
+<div style="float:right;">
+  [Gedanken verwalten ▶️](gedanken_verwalten_desktop.md)
+</div>
+</div>

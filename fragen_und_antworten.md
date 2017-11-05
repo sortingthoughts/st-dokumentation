@@ -1,6 +1,16 @@
 ---
 title: "FAQ - Fragen und Antworten"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Benutzerhandbuch](benutzerhandbuch.md)
+</div>
+<div style="float:right;">
+  [Home ▶️](index.md)
+</div>
+</div>
+
 ---------------
 __Inhalt__
 * TOC
@@ -54,3 +64,15 @@ Um alle Funktionen von Sorting Thoughts 30 Tage lang testen zu können, muss ein
 #### Wo werden die Einstellungen gespeichert?
 
 Die Einstellungen von Sorting Thoughts (Desktop Version) werden im Benutzerverzeichnis gespeichert und zwar in dem versteckten Ordner: ".sortingThoughts". Bei einer Neuinstallation oder Update werden die Einstellungen nicht gelöscht.
+
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Benutzerhandbuch](benutzerhandbuch.md)
+</div>
+<div style="float:right;">
+  [Home ▶️](index.md)
+</div>
+</div>

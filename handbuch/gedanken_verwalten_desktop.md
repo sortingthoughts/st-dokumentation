@@ -1,6 +1,16 @@
 ---
 title: "Gedanken verwalten Desktop"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Grundlagen](grundlagen_desktop.md)
+</div>
+<div style="float:right;">
+  [Projekte / Aufgaben ▶️](projekte_und_aufgaben.md)
+</div>
+</div>
+
 ---------------
 __Inhalt__
 * TOC
@@ -139,3 +149,15 @@ Stichwörter sind besonders nützlich für Projekte und Aufgaben, da so weitere 
 | Was	|  Aktives Projekt, Inaktives Projekt, Idee, Forschungsprojekt|
 | Bewertung	| Erfolgreiches Projekt, Desaster Projekt|
 | Kontext	| Produktname, Technologiename, Überprojekt, Budget |
+
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Grundlagen](grundlagen_desktop.md)
+</div>
+<div style="float:right;">
+  [Projekte / Aufgaben ▶️](projekte_und_aufgaben.md)
+</div>
+</div>

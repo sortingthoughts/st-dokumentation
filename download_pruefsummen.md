@@ -1,6 +1,16 @@
 ---
 title: "Prüfsummen"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Installation ▶️](installation.md)
+</div>
+</div>
+
 ---------------
 __Inhalt__
 * TOC
@@ -33,3 +43,14 @@ oder für SHA-1
 
 ## Prüfsumme unter Windows erzeugen
 Unter Windows gibt es verschiedene Programme mit denen man einen Prüfsumme erzeugen kann, z.B. [HashCheck](https://github.com/gurnec/HashCheck/releases).
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Installation ▶️](installation.md)
+</div>
+</div>

@@ -1,6 +1,16 @@
 ---
 title: "Schnelleinstieg"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+  [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Installation ▶️](installation.md)
+</div>
+</div>
+
 ---------------
 __Inhalt__
 * TOC
@@ -74,3 +84,15 @@ Nach dem Anlegen der Sammlung kann man diese öffnen und wird direkt aufgeforder
 ### Hauptbedienelemente der iOS Version
 
 ![ST iOS erklärt](/assets/images/ios-st-erklaert.png)
+
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+  [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Installation ▶️](installation.md)
+</div>
+</div>

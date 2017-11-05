@@ -1,6 +1,16 @@
 ---
 title: "Anwendungen für Sorting Thoughts"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Geschichte von ST](ueber_sortingthoughts.md)
+</div>
+<div style="float:right;">
+  [Benutzerhandbuch ▶️](benutzerhandbuch.md)
+</div>
+</div>
+
 ---------------
 __Inhalt__
 * TOC
@@ -72,3 +82,15 @@ Die Nützlichkeit eines Notizprogramms zeigt sich im Arbeitsalltag, aber auch im
 * **Gantt Diagramm:** Plane deine Aufgaben mit Hilfe von Gantt Diagrammen.
 * **Aufgaben-Management:** Nur ein Klick, um die nächsten Aufgaben zusehen.
 * **Import:** Mache deine Gedanke noch unabhängiger mit dem XML und CSV Import.
+
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Geschichte von ST](ueber_sortingthoughts.md)
+</div>
+<div style="float:right;">
+  [Benutzerhandbuch ▶️](benutzerhandbuch.md)
+</div>
+</div>

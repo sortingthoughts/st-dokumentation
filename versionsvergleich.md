@@ -1,6 +1,16 @@
 ---
 title: "Versionsvergleich"
 ---
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Installation ▶️](installation.md)
+</div>
+</div>
+
 ---------------
 __Inhalt__
 * TOC
@@ -54,3 +64,15 @@ __Inhalt__
 |Dateianhänge | | | ✅ | ✅ |
 |Freies Sortieren | | | ✅ | ✅ |
 |Sync Service | | |  | ✅ |
+
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Home](index.md)
+</div>
+<div style="float:right;">
+  [Installation ▶️](installation.md)
+</div>
+</div>
