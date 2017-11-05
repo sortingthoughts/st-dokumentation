@@ -1,10 +1,10 @@
 ---
 title: "Installation"
 ---
-
+<div>
 <div style="float:left;">◀️ [Schnelleinstieg](schnelleinstieg.md)</div>
 <div style="float:right;">[Benutzerhandbuch](benutzerhandbuch.md) ▶️</div>   
-</br>
+</div>
 
 ---------------
 __Inhalt__
@@ -63,7 +63,7 @@ __Inhalt__
 Siehe [Versionsvergleich](versionsvergleich.md)
 
 ---------------
-</br>
+<div>
 <div style="float:left;">◀️ [Schnelleinstieg](schnelleinstieg.md)</div>
-<div style="float:right;">[Benutzerhandbuch](benutzerhandbuch.md) ▶️</div>   
-</br>
+<div style="float:right;">[Benutzerhandbuch](benutzerhandbuch.md) ▶️</div>
+</div>  
