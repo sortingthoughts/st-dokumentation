@@ -1,9 +1,14 @@
 ---
 title: "Installation"
 ---
-<div>
-<div style="float:left;">◀️ [Schnelleinstieg](schnelleinstieg.md)</div>
-<div style="float:right;">[Benutzerhandbuch](benutzerhandbuch.md) ▶️</div>   
+
+<div class="pageNavigation">
+<div style="float:left;">
+  ◀️ [Schnelleinstieg](schnelleinstieg.md)
+</div>
+<div style="float:right;">
+  [Benutzerhandbuch](benutzerhandbuch.md) ▶️
+</div>
 </div>
 
 ---------------
@@ -62,8 +67,14 @@ __Inhalt__
 
 Siehe [Versionsvergleich](versionsvergleich.md)
 
+
 ---------------
-<div>
-<div style="float:left;">◀️ [Schnelleinstieg](schnelleinstieg.md)</div>
-<div style="float:right;">[Benutzerhandbuch](benutzerhandbuch.md) ▶️</div>
+
+<div class="pageNavigation">
+<div style="float:left;">
+  ◀️ [Schnelleinstieg](schnelleinstieg.md)
+</div>
+<div style="float:right;">
+  [Benutzerhandbuch](benutzerhandbuch.md) ▶️
+</div>
 </div>  
