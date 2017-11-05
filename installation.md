@@ -1,6 +1,11 @@
 ---
 title: "Installation"
 ---
+
+<div style="float:left;">◀️ [Schnelleinstieg](schnelleinstieg.md)</div>
+<div style="float:right;">[Benutzerhandbuch](benutzerhandbuch.md) ▶️</div>   
+</br>
+
 ---------------
 __Inhalt__
 * TOC
@@ -56,3 +61,9 @@ __Inhalt__
 ## Versionsvergleich
 
 Siehe [Versionsvergleich](versionsvergleich.md)
+
+---------------
+</br>
+<div style="float:left;">◀️ [Schnelleinstieg](schnelleinstieg.md)</div>
+<div style="float:right;">[Benutzerhandbuch](benutzerhandbuch.md) ▶️</div>   
+</br>

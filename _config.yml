@@ -9,3 +9,5 @@ url: "https://sortingthoughts.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+kramdown:
+  parse_block_html: true
