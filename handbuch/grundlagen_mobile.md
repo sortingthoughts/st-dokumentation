@@ -26,7 +26,9 @@ Die folgende Abbildung zeigt die Hauptelement von Sorting Thoughts für iOS:
 Hier ist der Einfachheit halber die iPhone® Version abgebildet. In der iPad® Version sind einige Elemente anders platziert, ansonsten verhält sich die iPad® Version aber genauso.
 
 ---------------
+
 **Hinweis:** Um alle hier beschriebenen Funktionen benutzen zu können, benötigen Sie mindestens das **Max Pack** oder ein **Sync-Service Abo**.
+
 ---------------
 
 ### Gedanke anlegen
