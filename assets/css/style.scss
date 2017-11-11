@@ -36,6 +36,10 @@ body {
   @include small {
     padding: 1rem 1rem;
   }
+
+  .btn {
+    padding: 0.3rem 0.3rem;
+  }
 }
 
 .project-name {
@@ -234,9 +238,5 @@ body {
   .pageNavigation {
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
-  }
-
-  .btn {
-    padding: 0.3rem 0.3rem;
   }
 }
