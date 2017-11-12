@@ -67,21 +67,35 @@ Ein Sync-Service Abonnement kann direkt aus der iOS Version von Sorting Thoughts
 
 #### 3. Schritt: Weitere Geräte mit dem Zugang verbinden
 
-Der Sync-Service macht natürlich nur Sinn, wenn man Sorting Thoughts auf mehreren Geräten benutzt. Nach Schritt eins und zwei können nun weitere Geräte mit dem Sync-Service verknüpft werden.
+Der Sync-Service macht natürlich nur Sinn, wenn man Sorting Thoughts auf mehreren Geräten benutzt. Nach Schritt eins und zwei sollten nun weitere Geräte mit dem Sync-Service verknüpft werden.
 
 Technisch gesehen wird bei jeder Verknüpfung ein privater und öffentlicher Schlüssel erstellt, die für die Verschlüsselung der zu synchronisierenden Daten benötigt wird. Der private Schlüssel wird auf dem Gerät gespeichert und verlässt dieses Geräte nicht, d.h. nur das Gerät das über den privaten Schlüssel verfügt kann die empfangenden Sync Daten entschlüsseln. Der öffentliche Schlüssel wird an den Sync-Service gesendet damit andere Geräte Sync-Daten für das Geräte verschlüsseln können - dies wird  [Ende-zu-Ende Verschlüsselung](https://de.wikipedia.org/wiki/Ende-zu-Ende-Verschlüsselung) (E2EE) genannt.
 
 ### Sync durchführen
 
+Über folgendes Symbol:
 
+![Sync Service Symbol](./assets/images/st-sync-icon.png)
+
+wird der Sync eingeleitet. Nach dem tippen auf Sync-Symbol öffnet sich ein Dialog der es ermöglicht festzulegen welche Gedanken-Sammlungen mit welchem Gerät synchronisiert werden soll. In der Desktop Version werden in diesem Dialog nur Gedanken-Sammlungen angezeigt, die zuvor in den Einstellungen für den Sync aktiviert wurden.
+
+Wenn der Sync für eine Gedanken-Sammlungen deaktiviert wird und diese Gedanken-Sammlungen später wieder aktiviert wird, muss beachtet werden das alle Inhalte der Sammlung wieder erneut übertragen werden müssen. Nur wenn der Sync aktiv bleibt, werden ausschließlich die Änderungen übertragen.
 
 ### Hinweise
 
-Zugang löschen
+**Zugang löschen**
 
-Support ID
+Es ist jederzeit möglich seinen Zugang zu löschen, allerdings soll man beachtet dann auch die Information über das Abonnement gelöscht werden und das Abonnement damit vorzeitig beendet wird.
 
-Datenvolumen beim Sync
+
+**Support ID**
+
+Für Support-Anfrage bezüglich des Sync-Services bitte die persönliche Support-ID (zu finden unter Einstellungen / Sync-Service / Zugang) mit angeben. Ansonsten ist es nicht möglich das zugehörige Benutzerkonto im Sync-Service zu identifizieren.
+
+**Datenvolumen beim Sync**
+
+Durch die Ende-zu-Ende Verschlüsselung müssen die Sync-Daten für jedes Zielgerät extra übertragen werden. Bei einem Sync der z.B. an drei Geräte gesendet wird verdreifacht sich dementsprechend die Übertragungsmenge.
+
 
 ---------------
 
