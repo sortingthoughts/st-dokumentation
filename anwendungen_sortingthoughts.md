@@ -64,7 +64,7 @@ Die Nützlichkeit eines Notizprogramms zeigt sich im Arbeitsalltag, aber auch im
 * **Sicher:** Alle Einträge werden in einer verschlüsselten Datenbank gespeichert.
 * **Suchen:** Durchsuche deine gesamte Gedanken-Sammlung.
 * **Sortieren:** Sortiere Gedanken einfach per Drag’n’Drop.
-* **Sync Service:** Synchronisiere deine Gedanken zwischen iOS Geräten. Bald verfügbar auf der Desktop Version.
+* **Sync Service:** Synchronisiere deine Gedanken zwischen iOS Geräten.
 * **Verlinken:** Verlinke deine Gedanken untereinander oder mit Webseiten.
 * **Vollbild-Modus:** Immer alles im Blick mit dem Vollbild-Modus.
 * **Dateianhänge:** Gib deinen Gedanken Bilder und hänge Dateien wie Bilder oder Dokumente an.
@@ -83,6 +83,18 @@ Die Nützlichkeit eines Notizprogramms zeigt sich im Arbeitsalltag, aber auch im
 * **Aufgaben-Management:** Nur ein Klick, um die nächsten Aufgaben zusehen.
 * **Import:** Mache deine Gedanke noch unabhängiger mit dem XML und CSV Import.
 
+
+### Funktionsüberblick der iOS Version
+
+* Mehrere Gedanken-Sammlungen
+* Projekte, Aufgaben und Ereignisse
+* Foto-Anhänge
+* Stichwörter
+* Farbmarker
+* Gedankenhistorie
+* Sub-Gedanken
+* Passwortschutz
+* Sync Service
 
 ---------------
 
