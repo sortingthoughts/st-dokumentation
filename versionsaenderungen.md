@@ -17,7 +17,7 @@ __Inhalt__
 {:toc}
 ---------------
 
-Versionsänderungen im Detail für die Desktop Version (Windows und macOS)
+Versionsänderungen im Detail für die Desktop Version (Windows und macOS). Die Versionsänderungen der iOS können im App-Store eingesehen werden.
 
 # Version 2.0.0 (??.??.2017)
 

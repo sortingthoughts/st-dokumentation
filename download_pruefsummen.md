@@ -33,13 +33,16 @@ Um mehr über Prüfsummen zu erfahren, besuchen Sie bitte [Wikipedia.org](http:/
 ## Prüfsumme unter macOS erzeugen
 Das Terminal Programm öffnen, mit dem cd Befehl zum Verzeichnis wechseln indem sich die Datei befindet und dann den md5 Befehl benutzen:
 
+```
     cd Downloads
     md5 ST-64bit-v1-0-2.dmg
+```
 
 oder für SHA-1
 
+```
     shasum -a 1 ST-v2-0-0.dmg
-
+```
 
 ## Prüfsumme unter Windows erzeugen
 Unter Windows gibt es verschiedene Programme mit denen man einen Prüfsumme erzeugen kann, z.B. [HashCheck](https://github.com/gurnec/HashCheck/releases).
