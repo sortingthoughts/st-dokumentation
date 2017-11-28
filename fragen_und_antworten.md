@@ -55,9 +55,9 @@ Bitte melden Sie Fehler per [Kontaktformular](https://www.sortingthoughts.de/blo
 
 #### Wo muss ich den Test Registrierungscode eingeben?
 
-// TODO: menue update
+Um alle Funktionen von Sorting Thoughts 30 Tage lang testen zu können, muss ein kostenloser [Test Registrierungscode angefordert](https://www.sortingthoughts.de/blog/de/test-sorting-thoughts/) werden. Der Code kann dann im "Sorting Thoughts kaufen" Dialog eingegeben werden. Dieser Dialog ist per "Hilfe" > "Registrierungscode aktivieren" Menüpunkt erreichbar.
 
-Um alle Funktionen von Sorting Thoughts 30 Tage lang testen zu können, muss ein kostenloser [Test Registrierungscode angefordert](https://www.sortingthoughts.de/blog/de/test-sorting-thoughts/) werden. Der Code kann dann im "Sorting Thoughts kaufen" Dialog eingegeben werden. Dieser Dialog ist per "Hilfe" > "Registrierungscode" Menüpunkt erreichbar.
+![enter register code](./assets/images/sn-enter.png)
 
 ---------------
 
