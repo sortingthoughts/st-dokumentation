@@ -35,7 +35,7 @@ Die Anmeldedaten für die Bibliothek und Sammlungen sind sehr wichtig, da nur da
 
 ---------------
 
-**ACHTUNG: Anmeldedaten umbedingt merken! Es gibt keine Passwort-Erinnerungsfunktion - nur Sie kennen das Passwort!**
+**ACHTUNG: Anmeldedaten unbedingt merken! Es gibt keine Passwort-Erinnerungsfunktion - nur Sie kennen das Passwort!**
 
 ---------------
 
