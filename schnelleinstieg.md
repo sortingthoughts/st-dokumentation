@@ -70,7 +70,7 @@ Die App kann kostenlos via [App Store heruntergeladen](https://itunes.apple.com/
 
 ---------------
 
-**ACHTUNG: Auch hier gilt, Anmeldedaten umbedingt merken! Es gibt keine Passwort-Erinnerungsfunktion - nur Sie kennen das Passwort!**
+**ACHTUNG: Auch hier gilt, Anmeldedaten unbedingt merken! Es gibt keine Passwort-Erinnerungsfunktion - nur Sie kennen das Passwort!**
 
 ---------------
 
