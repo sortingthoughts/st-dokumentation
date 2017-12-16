@@ -17,18 +17,29 @@ __Inhalt__
 {:toc}
 ---------------
 
-Versionsänderungen im Detail für die Desktop Version (Windows und macOS). Die Versionsänderungen der iOS können im App-Store eingesehen werden.
+Versionsänderungen im Detail für die Desktop Version (Windows und macOS). Die Versionsänderungen der iOS App können im App-Store eingesehen werden.
 
-# Version 2.0.0 (??.??.2017)
+# Version 2.0.0 (16. Dec 2017)
 
 Fehler
-- ...
+- fixed missing attachment zoom short cuts on macOS
+- fixed installation problems with a bundled Java Runtime Environment
+- macOS version works now correct with Apple Gatekeeper
+- and many more
 
 Verbesserungen
-- ...
+- improved CVS and XML import
+- high resolution support
+- performance improvements
 
 Neue Funktionen
-- ...
+- new design similar to iOS app of ST
+- sync service support between iOS app and desktop apple
+- new saving concept (thought library)
+- thought versioning
+- thought tree shows the sub thought count
+- font size of thought tree and editor can be changed
+- create multiple thoughts via text select and right click of a bullet point list in editor
 
 
 # Version 1.4.0 (27. Nov 2012)

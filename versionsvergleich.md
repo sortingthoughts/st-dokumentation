@@ -43,7 +43,7 @@ __Inhalt__
 |Automatisches Backup | | ✅ |
 |Export von Gedanken (XML und Web Seiten) | | ✅ |
 |Import von Gedanken (XML und CSV) | | ✅ |
-|Sync Service Anbindung | | ✅ |
+|[Sync Service](sync_service.md) bereit | | ✅ |
 
 ### iOS Version
 
@@ -63,7 +63,7 @@ __Inhalt__
 |Verschlagwortung / Tagging | | | ✅ | ✅ |
 |Dateianhänge | | | ✅ | ✅ |
 |Freies Sortieren | | | ✅ | ✅ |
-|Sync Service | | |  | ✅ |
+|[Sync Service](sync_service.md) | | |  | ✅ |
 
 
 ---------------

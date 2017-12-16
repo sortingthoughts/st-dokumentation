@@ -56,3 +56,15 @@ Per Rechtsklick auf das Sucheingabefeld können folgende Filter erreicht werden:
 ![Suchfilter](../assets/images/such-filter.png)
 
 Siehe auch [Suchen und Filtern](./gedanken_verwalten_desktop.html#filter)
+
+
+---------------
+
+<div class="pageNavigation">
+<div style="float:left;">
+   [◀️ Gedanken verwalten](gedanken_verwalten.md)
+</div>
+<div style="float:right;">
+  [Sync Service ▶️](../sync_service.md)
+</div>
+</div>
