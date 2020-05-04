@@ -19,6 +19,10 @@ __Inhalt__
 
 ## Schnelleinstieg Desktop Version
 
+**Quick Start Video**
+
+[![IMAGE Quick Start Video](http://img.youtube.com/vi/iM9MuyhYE5o/0.jpg)](https://youtu.be/iM9MuyhYE5o)
+
 **Schritt 1: Installation**
 
 Sorting Thoughts für Windows oder macOS [herunterladen](https://www.sortingthoughts.de/blog/de/download/) und [Installation](installation.md) durchführen. Sorting Thoughts wird als Shareware angeboten, d.h. die Grundfunktionen können unbegrenzt kostenlos genutzt werden. Um alle Funktionen benutzen zu können, muss ein Registrierungscode gekauft werden. Mehr Informationen dazu gibt hier: [Sorting Thoughts kaufen](https://www.sortingthoughts.de/blog/de/buy-sorting-thoughts/). Es ist ebenfalls möglich alle Funktionen bis auf den Sync-Service [30 Tage lang zu testen](https://www.sortingthoughts.de/blog/de/test-sorting-thoughts/).
