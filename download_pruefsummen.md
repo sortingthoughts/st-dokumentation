@@ -20,6 +20,13 @@ __Inhalt__
 Um sicher zu gehen, das die Installationsdatei unverändert ist und sich in dem Zustand befindet wie sie erzeugt wurde, ist es ratsam eine MD5 Prüfsumme zu erzeugen und mit der in der Tabelle unter zu vergleichen. Wenn die Prüfsummen identisch sind, ist alles in Ordnung und die Datei wurde nicht verändert, um z.B. Schadsoftware einzuschleusen. Falls die Prüfsumme jedoch abweicht, löschen Sie bitte die Installationsdatei und laden Sie diese direkt von der offiziellen [Download-Seite](https://www.sortingthoughts.de/blog/de/download/) herunter.
 Um mehr über Prüfsummen zu erfahren, besuchen Sie bitte [Wikipedia.org](http://de.wikipedia.org/wiki/Checksum).
 
+## Version 2.0.0
+
+| Dateiname | SHA-1 Prüfsumme | MD5 Prüfsumme
+|:--------|:-------:|:-------:|
+| SortingThoughts-Installer_2.0.0.exe | ec3ccf3efcc723d88cebc2912ba6d14d7db4438a | 6e8c44fe3f5782e9662cd6ef27de3777  |
+| SortingThoughts-2.0.0.dmg | fc254359ec17a1e454656107fa00bf2e8933a3e5 | 50468d4dde88a67b8557350e627e9c66 |
+
 ## Version 1.4.0
 
 | Dateiname | MD5 Prüfsumme |

@@ -19,18 +19,23 @@ __Inhalt__
 
 Versionsänderungen im Detail für die Desktop Version (Windows und macOS). Die Versionsänderungen der iOS App können im App-Store eingesehen werden.
 
-# Version 2.0.0 (16. Dec 2017)
+# Version 2.1.0 (23. Nov 2020) - "faster, sharper, darker"
+
+Neue Funktionen
+- Dark Mode support
+- Retina / 4k Display Support
+- Stark verbesserte Performance und Startzeiten
 
 Fehler
-- fixed missing attachment zoom short cuts on macOS
-- fixed installation problems with a bundled Java Runtime Environment
-- macOS version works now correct with Apple Gatekeeper
-- and many more
+- Gedanken Baum: Erstellen eines Untergedanken hat jetzt immer den korrekten Elterngedanken
+- Neuer Gedanke erstellen: Eingabefeld für den Namen repariert
+- HTML Export funktioniert nun in modernen Browsern
+- Darstellungsfehler behoben für Windows 10 und macOS
 
-Verbesserungen
-- improved CVS and XML import
-- high resolution support
-- performance improvements
+Gut zu wissen
+- 32bit Support für Windows entfernt
+
+# Version 2.0.0 (16. Dec 2017) - "sync now"
 
 Neue Funktionen
 - new design similar to iOS app of ST
@@ -41,19 +46,30 @@ Neue Funktionen
 - font size of thought tree and editor can be changed
 - create multiple thoughts via text select and right click of a bullet point list in editor
 
+Verbesserungen
+- improved CVS and XML import
+- high resolution support
+- performance improvements
+
+Fehler
+- fixed missing attachment zoom short cuts on macOS
+- fixed installation problems with a bundled Java Runtime Environment
+- macOS version works now correct with Apple Gatekeeper
+- and many more
+
 
 # Version 1.4.0 (27. Nov 2012)
-Fehler
-- Broken Thought by adding a too big attachment
-- Tag View shows thoughts without marker color
+Neue Funktionen
+- Add fast way to complete tasks and projects
+- Shortcut to create a diary thought name
 
 Verbesserungen
 - Modify number of backup iterations
 - Remove email mandatory field for 30 day trial activation code
 
-Neue Funktionen
-- Add fast way to complete tasks and projects
-- Shortcut to create a diary thought name
+Fehler
+- Broken Thought by adding a too big attachment
+- Tag View shows thoughts without marker color
 
 
 # Version 1.3.0 (13. Mrz. 2012)
