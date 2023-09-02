@@ -19,25 +19,25 @@ __Inhalt__
 
 ## Gedanken verwalten in der Mobile Version
 
-### Strukturieren
+### Strukturiere Gedanken
 
-In der mobilen Version von Sorting Thoughts wird der Gedanken-Baum geteilt angezeigt, d.h. alle Top- bzw. Elterngedanken werden in Gedanken-Liste angezeigt und alle zugehörigen Sub- bzw. Kinder-Gedanken werden separat auf einer extra Ansicht aufgelistet. Die Gedanken-Liste zeigt die Anzahl der Sub-Gedanken jedes Top-Gedanken mit an:
+Das Gedanken-Kontextmenü ermöglicht es, die Gedanken zu strukturieren. Verwende die Funktion **Sub-Gedanke hinzufügen**, um einen Untergedanken zu erstellen. Der Untergedanke wird als Kind-Gedanke des ausgewählten Gedankens angezeigt. Der folgende Screenshot zeigt das Gedanken-Kontextmenü:
 
-![Gedanken-Liste](../assets/images/st-ios-gedankenliste.png)
+![Gedanken-Liste](../assets/images/ThoughtContext_de.png)
 
-Im folgenden sieht man alle Sub-Gedanken von "Meine Projekte":
+Die Anzahl der Untergedanken eines Gedankens wird in der Gedankenliste angezeigt. Der folgende Screenshot zeigt die Gedankenliste mit mehreren Untergedanken:
 
-![Sub-Gedanken](../assets/images/st-ios-untergedanken-1.png)
+![Sub-Gedanken](../assets/images/ThoughtTreeMultiple_de.png)
 
-In dieser Ansicht lässt sich auch ein neuer Top-Gedanken zuweisen womit der Gedanke "Meine Projekt" dann ein Sub-Gedanken würde. Außerdem kann in der Sub-Gedanken Ansicht navigiert werden und die Sub-Gedanken von Sub-Gedanken aufrufen. In der folgenden Ansicht sieht man die Sub-Gedanken von dem "Weltreise 2011" Gedanken:
+Du kannst auch einen Gedanken zu einem anderen übergeordneten Gedanken verschieben. Öffne dazu das Gedanken-Kontextmenü des Gedankens, den du verschieben möchtest, und wähle dann die Funktion **Gedanke bewegen** aus. Der folgende Screenshot zeigt die Ansicht zum Gedanken bewegen:
 
-![Sub-Gedanken Ebene tiefer](../assets/images/st-ios-untergedanken.png)
+![Sub-Gedanken verschieben](../assets/images/MoveThought_de.png)
 
-### Sortieren
+### Sortiere Gedanken
 
-In der Gedanken-Liste kann man über folgendes Symbol die Sortierung der List ändern:
+In der Gedankenliste kann man über folgendes Symbol die Sortierung der List ändern:
 
-![Sortiersymbol](../assets/images/st-ios-sortiersymbol.png)
+![Sortiersymbol](../assets/images/SortIcon.png)
 
 Damit lässt sich die Gedanken-Liste nach:
 
@@ -49,46 +49,50 @@ Damit lässt sich die Gedanken-Liste nach:
 
 sortieren.
 
-![Sortierung](../assets/images/st-ios-sortieren.png)
+Das folgende Bild zeigt die Sortierkriterien:
 
-### Filtern
+![Sortierung](../assets/images/SortThoughts_de.png)
+
+### Filter Gedanken
 
 Die Gedanken-Liste kann auch gefiltert werden, dazu einfach auf folgendes Symbol tippen:
 
-![Filtersymbol](../assets/images/st-ios-filtersymbol.png)
+![Filtersymbol](../assets/images/FilterIcon.png)
 
 Damit stehen folgende Filter zur Verfügung:
 
-* Alle Gedanken-Liste
-* Nächste Aufgaben (zeigt alle nicht abgeschlossen Aufgaben, dringende zu erst)
-* Aufgaben
+* Alle Gedanken
 * Projekte
+* Aufgaben
+* Nächste Aufgaben (zeigt alle nicht abgeschlossen Aufgaben, dringende zu erst)
 * Ereignisse
 
-![Filtern](../assets/images/st-ios-filtern.png)
+Das folgende Bild zeigt die Filterkriterien:
 
-### Metadaten
+![Filtern](../assets/images/FilterThoughts_de.png)
 
-Über den Dreipunkte-Aktionsknopf und "Informationen" lassen sich Metadaten zu dem ausgewählten Gedanken anzeigen:
+### Metadaten zu einem Gedanken
 
-![Metadaten](../assets/images/st-ios-metadaten.png)
+Über das Gedanken-Kontextmenü lassen sich mit der **Informationen** Funktion, weitere Metadaten zu dem ausgewählten Gedanken anzeigen:
 
-### Stichwörter
+![Metadaten](../assets/images/ThoughtInformation_de.png)
 
-Jeder Gedanken kann beliebig viele Stichwörter erhalten, um das Auffinden zu erleichtern. Stichwörter lassen sich über den Dreipunkte-Aktionsknopf und "Stichwörter" vergeben. Existierende Stichwörter der Gedanken-Sammlung werden in der Stichwörteransicht aufgelistet und können einfach ausgewählt werden. Über das obere Eingabefeld und das Plussymbol lassen sich neue Stichwörter vergeben:
+### Stichwörter vergeben
 
-![Stichwörter vergeben](../assets/images/st-ios-stichwoerter-2.png)
+Jeder Gedanken kann beliebig viele Stichwörter erhalten, um das Auffinden zu erleichtern. Stichwörter lassen sich über das Gedanken-Kontextmenü und der **Stichwörter** Funktion vergeben. Existierende Stichwörter der Gedanken-Sammlung werden in der Stichwörteransicht aufgelistet und können einfach ausgewählt werden. Über das obere Eingabefeld und das Plussymbol lassen sich neue Stichwörter vergeben:
+
+![Stichwörter vergeben](../assets/images/TagThought_de.png)
 
 Die Gedanken-Liste zeigt alle Stichwörter und ihre verknüpften Gedanken an:
 
-![Stichwörter Verknüpfungen](../assets/images/st-ios-stichwoerter-1.png)
+![Stichwörter Verknüpfungen](../assets/images/TagList_de.png)
 
 Die Auflistung der Stichwörter lässt sich ebenfalls sortieren nach:
 
 * Name
 * Anzahl der Verwendung
 
-![Stichwortsortierung](../assets/images/st-ios-stichwoerter-sortieren.png)
+![Stichwortsortierung](../assets/images/SortTags_de.png)
 
 ---------------
 

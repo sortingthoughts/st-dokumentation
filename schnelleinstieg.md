@@ -80,7 +80,7 @@ Die App kann kostenlos via [App Store heruntergeladen](https://itunes.apple.com/
 
 **Schritt 3: den ersten Gedanken anlegen**
 
-Nach dem Anlegen der Sammlung kann man diese öffnen und einen neuen Gedanken mit dem Plus Knopf anlegen. 
+Nach dem Anlegen der Sammlung kann man diese öffnen und einen neuen Gedanken mit dem Plus Knopf anlegen. Für weitere Informationen siehe "[Grundlagen](/handbuch/grundlagen_mobile.md)" und "[Gedanken verwalten](/handbuch/gedanken_verwalten_mobile.md)".
 
 ![Neuen Gedanken erstellen](/assets/images/QuickStartIos_de.gif)
 

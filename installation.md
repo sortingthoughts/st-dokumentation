@@ -49,11 +49,11 @@ __Inhalt__
 
 [Prüfsummen der alter Versionen](download_pruefsummen.md)
 
-## iOS Version
+## iOS / iPadOS Version
 
 ### Installationsvorraussetzungen
 
-* iOS 9 oder besser
+* iOS / iPadOS 15.6 oder besser
 * kompatibel mit iPhone, iPad und iPod touch
 * Familienfreigabe für In-App Käufe wird unterstützt
 * Sprachen: Deutsch, Englisch
