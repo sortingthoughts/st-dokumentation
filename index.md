@@ -1,3 +1,5 @@
+[🇬🇧 Open the English version of this documentation.](https://sortingthoughts.github.io/st-documentation/)
+
 ## Über Sorting Thoughts
 #### [Die Geschichte von Sorting Thoughts](ueber_sortingthoughts.md)
 #### [Für wen ist Sorting Thoughts gemacht?](anwendungen_sortingthoughts.md)
