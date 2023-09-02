@@ -25,7 +25,7 @@ Neben einfachen Gedanken ist es auch möglich Projekte, Aufgaben und Ereignisse 
 
 ![Projekt-Gedanke](../assets/images/projekt-gedanke.png)
 
-![Projekt in der mobilen Version](../assets/images/st-ios-projekt.png)
+![Projekt in der mobilen Version](../assets/images/ProjectViewNoneEdit_de.png)
 
 Jeder Projekt-Gedanke in der Desktop Version hat eine Aufgabenplan-Ansicht, die alle Unteraufgaben des Projektes in einem Gantt Diagramm visualisiert. Es ist auch möglich in den Gantt Diagramm die Aufgaben zu planen, indem sie zeitlich verschoben werden können. Per Doppelklick auf einen Aufgabenbalken kann man direkt die Aufgaben öffnen.
 
@@ -39,13 +39,13 @@ Die Metadaten eines Projekt-Gedanken haben eine extra Sektion, die darüber Aufs
 
 ![Aufgabe](../assets/images/aufgabe.png)
 
-![Aufgabe in der mobilen Version](../assets/images/st-ios-aufgabe.png)
+![Aufgabe in der mobilen Version](../assets/images/TaskViewNoneEdit_de.png)
 
 ### Ereignisse
 
 ![Ereignis](../assets/images/ereignis.png)
 
-![Ereignis in der mobilen Version](../assets/images/st-ios-ereignis.png)
+![Ereignis in der mobilen Version](../assets/images/EventViewNoneEdit_de.png)
 
 ### Zusätzliche Suchfilter
 
