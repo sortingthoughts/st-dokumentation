@@ -64,7 +64,7 @@ Es kann einfach zwischen den verschiedenen Typen gewechselt werden. Die Typauswa
 
 Gedanken haben einen Ansichts- und Bearbeitungsmodus. Um in den Bearbeitungsmodus zu wechseln, einfach auf den Gedankeninhalt drücken oder den Editier-Knopf drücken. Im Bearbeitungsmodus kann der Gedanke bearbeitet werden. Um den Bearbeitungsmodus zu verlassen, einfach auf den Fertig-Knopf drücken. Spezielle Gedanken Typen haben zusätzliche Felder die bearbeitet werden können.
 
-In der Gedankenlistenansicht können Sie durch Verwendung einer Force-Touch-Geste auf den Gedanken weitere Bearbeitungsfunktionen erreichen. Dadurch wird ein Kontextmenü mit den folgenden Funktionen geöffnet:
+In der Gedankenlistenansicht können Sie durch Verwendung einer Force-Touch-Geste (langes gedrückt halten) auf den Gedanken weitere Bearbeitungsfunktionen erreichen. Dadurch wird ein Kontextmenü mit den folgenden Funktionen geöffnet:
 
 ![Weitere Funktionen](../assets/images/ThoughtContext_de.png)
 
@@ -82,19 +82,13 @@ Gedanken können mit einer Farbe markiert werden, damit wird der Title in der Ge
 
 ![Farbe auswählen](../assets/images/EditColorMarker_de.png)
 
-### Gedanke umbenennen
-
-Um den Namen umzubenennen, muss dieser einfach per Berührung ausgewählt werden. Nach dem Schliessen der Tastatur wird der Name gespeichert.
-
 ### Dateien anhängen
 
-Es ist möglich Fotos an einen Gedanken anzuhängen. Dazu muss über den Dreipunkte-Funktionsknopf die Funktion **Anhänge** ausgewählt werden und dann über das Plussymbol ein bestehendes Foto aus der Galerie ausgewählt werden. Eine Beschreibung zum Anhang kann über langes gedrückt halten vergeben werden.
+Es ist möglich Fotos an einen Gedanken anzuhängen. Dazu muss die Anhänge-Ansicht im Ansichtsmodus geöffnet werden. Über das Plussymbol kann dann ein bestehendes Foto aus der Galerie ausgewählt werden. Eine Beschreibung zum Anhang kann über langes gedrückt halten vergeben werden.
 
-![Anhang auswählen](../assets/images/st-ios-anhaenge.png)
+![Anhang auswählen](../assets/images/Attachments_de.png)
 
-Wichtig ist das Sorting Thoughts die Erlaubnis hat Fotos aus der Galerie lesen zu dürfen. Falls Sie die Erlaubnis verweigert haben, können keine Fotos ausgewählt werden. Um die Erlaubnis nachträglich zuerteilen, muss man in den iOS Einstellungen unter Datenschutz Sorting Thoughts das Recht erteilen:
-
-![Datenschutz](../assets/images/st-ios-datenschutz.png)
+Wichtig ist das Sorting Thoughts die Erlaubnis hat Fotos aus der Galerie lesen zu dürfen. Falls Sie die Erlaubnis verweigert haben, können keine Fotos ausgewählt werden. Um die Erlaubnis nachträglich zuerteilen, muss man in den iOS Einstellungen unter Datenschutz Sorting Thoughts das Recht erteilen.
 
 ---------------
 
